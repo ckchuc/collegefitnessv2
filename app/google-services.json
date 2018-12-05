@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "980876364834",
+    "firebase_url": "https://collegefitness-b29f8.firebaseio.com",
+    "project_id": "collegefitness-b29f8",
+    "storage_bucket": "collegefitness-b29f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980876364834:android:bf13250674cbff89",
+        "android_client_info": {
+          "package_name": "com.example.alsendor.college_fitness"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "980876364834-hcg6i0mrk70hffp0enac6imst4imkque.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkoj_Q8OKkEp-E8G-MHLf1B1qbR4C9IZM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980876364834:android:ac5cc49eb2952305",
+        "android_client_info": {
+          "package_name": "com.example.codeychuc.collegefitnesslogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "980876364834-hcg6i0mrk70hffp0enac6imst4imkque.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkoj_Q8OKkEp-E8G-MHLf1B1qbR4C9IZM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
